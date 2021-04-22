@@ -1,0 +1,15 @@
+{
+  "name": "express-starter-template-website-ejs",
+  "version": "1.0.0",
+  "description": "starter template for express web applications with ejs template engine",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "berkerozer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.^17.1"
+  }
+}
